@@ -9,3 +9,38 @@ Calam Handwritten characters (with modifiers) Devanagari Database
     The dataset consists of more than 23000 images of their original size with programmatically segmented consonant,
     Numerals and Vowels. Data are also collected from person from different geographical locations of India.<br />
   </div>
+  <div class="heading">
+    <h3> <b>Highlights</b></h3>
+    <hr />
+  </div>
+  <div>
+    <ul>
+      <li>Hindi hand written Vowels and Consonants with matras (modifiers) written by around 1200 writers from
+        geographically diverse places.</li>
+      <li>More than 23000 handwritten (alphabets) characters images of consonants, Numerals and Vowels Characters
+        scanned at 300 dpi.</li>
+      <li>Devanagari handwritten and Unicode corpus containing 1600 handwritten text-pages, written by 1600 different
+        writers containing 8,800 Hindi handwritten text lines,
+        with 1,20,000 Hindi handwritten text words. Each form contains approximately 4.53 text lines and 68.91 text
+        words.
+        In addition to this the database contains 4,160 Hindi printed text lines.</li>
+      <li> XML file format (structural and Unicode Ground truths) in a hierarchical manner having complete information
+        for research findings.</li>
+    </ul>
+    <br />
+  </div>
+  <div class="heading">
+
+    <b>To Access CALAM<sub>NN</sub>-Dataset: Please send the filled and signed in <a
+        href="consent form.pdf">Agreement form </a> </b><br />
+    <hr />
+  </div>
+
+
+
+  <div class="heading">
+    <h3> <b>Contact</b></h3>
+    <hr />
+    <b>Mail:</b> nnain.cse@mnit.ac.in
+  </div>
+  <div>

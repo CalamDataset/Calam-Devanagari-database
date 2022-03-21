@@ -34,6 +34,9 @@ Calam Handwritten characters (with modifiers) Devanagari Database
 
 
   <div class="heading">
+Download :<a href="https://drive.google.com/file/d/1ZJb4utE9Xyi-Kvt75_NeNPBBVXk5Djzv/view?usp=sharing"> Hindi Consonents</a> 
+Download :<a href="https://drive.google.com/file/d/1ViGofs9ymEq7Vw3ANBSKg1u0gRuB40gl/view?usp=sharing"> Hindi Numerals </a>
+Download :<a href="https://drive.google.com/file/d/1HZR3Cjgs-jDe6MNswLJ6oMyZoA0HgwIK/view?usp=sharing" > Hindi Vovewls</a>
  To Access CALAM<sub>NN</sub>-Dataset: Please send the filled and signed in <a
         href="consent form.pdf">Agreement form </a> </b>
     <h3> <b>Contact</b></h3>

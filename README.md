@@ -39,6 +39,8 @@ Calam Handwritten characters (with modifiers) Devanagari Database
 
 
   <div class="heading">
+ To Access CALAM<sub>NN</sub>-Dataset: Please send the filled and signed in <a
+        href="consent form.pdf">Agreement form </a> </b>
     <h3> <b>Contact</b></h3>
     <hr />
     <b>Mail:</b> nnain.cse@mnit.ac.in

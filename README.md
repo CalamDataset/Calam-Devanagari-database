@@ -31,11 +31,6 @@ Calam Handwritten characters (with modifiers) Devanagari Database
   </div>
 
 
-    <b>To Access CALAM<sub>NN</sub>-Dataset: Please send the filled and signed in <a
-        href="consent form.pdf">Agreement form </a> </b><br />
-    <hr />
-
-
 
 
   <div class="heading">

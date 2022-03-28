@@ -37,6 +37,8 @@ Calam Handwritten characters (with modifiers) Devanagari Database
 Download :<a href="https://drive.google.com/file/d/1ZJb4utE9Xyi-Kvt75_NeNPBBVXk5Djzv/view?usp=sharing"> Hindi Consonents</a>   <br />
 Download :<a href="https://drive.google.com/file/d/1ViGofs9ymEq7Vw3ANBSKg1u0gRuB40gl/view?usp=sharing"> Hindi Numerals </a>  <br />
 Download :<a href="https://drive.google.com/file/d/1HZR3Cjgs-jDe6MNswLJ6oMyZoA0HgwIK/view?usp=sharing" > Hindi Vovewls</a>
+Download :<a href="Handwritten_Devnagari_Script_Database_Development.pdf" > Handwritten Devnagari Script Database Development for Off-Line Hindi
+Character with Matra (Modifiers)</a>
  <br />
  To Access CALAM<sub>NN</sub>-Dataset: Please send the filled and signed in <a
         href="consent form.pdf">Agreement form </a> </b>
